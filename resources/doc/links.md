@@ -29,6 +29,7 @@ Our thought process
 Optimal dosage and economic threshold of multiple pesticide applications for pest control
 
 8) https://www.azfb.org/Article/How-We-Use-Pesticides-in-Agriculture
+
 How We Use Pesticides in Agriculture
 
 9) http://www.omafra.gov.on.ca/english/crops/facts/09-037w.htm
