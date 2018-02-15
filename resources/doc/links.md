@@ -34,3 +34,8 @@ How We Use Pesticides in Agriculture
 9) http://www.omafra.gov.on.ca/english/crops/facts/09-037w.htm
 
 How Weather Conditions Affect Spray Applications
+
+10) https://openweathermap.org, https://www.wunderground.com/weather/api/, https://darksky.net/forecast/13.0802,80.2838/us12/en
+
+current weather information and forecasts, JSON data to exchange data.
+
