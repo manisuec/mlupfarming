@@ -23,3 +23,14 @@ Plant diease detection using image processing
 6) https://docs.google.com/document/d/1BqrWzfBMJNipbnX8Mr9GtDlp9bBJkfzPGl1O2b_LhUc/edit#heading=h.e6r076ewx8fj
 
 Our thought process
+
+7) https://www.sciencedirect.com/science/article/pii/S0895717709004208
+
+Optimal dosage and economic threshold of multiple pesticide applications for pest control
+
+8) https://www.azfb.org/Article/How-We-Use-Pesticides-in-Agriculture
+How We Use Pesticides in Agriculture
+
+9) http://www.omafra.gov.on.ca/english/crops/facts/09-037w.htm
+
+How Weather Conditions Affect Spray Applications
