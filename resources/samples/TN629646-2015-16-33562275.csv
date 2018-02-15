@@ -1,0 +1,27 @@
+﻿Farmer_Id,Textbox3,Textbox9,Sample_No1,Textbox7,Farmer_Name,Textbox61,Father_Name1,Textbox13,Textbox14,Textbox16,Textbox21,Textbox24,Farmer_Name1,Textbox27,Address,Textbox69,Textbox70,Textbox30,Sub_District_Name,Textbox33,District_Name,Textbox36,Farmer_PinCode,Textbox39,Aadhaar_Number,Textbox42,mobile,Textbox67,Textbox45,Textbox48,Sample_No,Textbox51,Sample_Collection_Date,Textbox54,SurveyNo,Textbox57,DragNo,Textbox60,Land_Area,Textbox63,Irrigation_Rainfed1,Textbox6,Textbox76,Lab_Name,Textbox32,Textbox20,Textbox22,Textbox24,Textbox26,Textbox28,Textbox21,TestName2,TestValue1,Unit,Rating
+"Department of Agriculture, Cooperation & Farmers Welfare
+Ministry of Agriculture and Farmers Welfare
+Government of India ",Directorate of Agriculture,Soil Health Card Number,TN629646/2015-16/33562275(1),Farmer Name,Pichaimoorthi,Father Name,Punniyakotti,Validity,From:  To:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,Soil Health Card,Farmer’s Details,Name,Pichaimoorthi,Address,XXXXX,Village,XXXXX,Sub-District,XXXXX,District,XXXXX,PIN,XXXX-XX,Aadhaar Number,xxxxxxxx,Mobile No.,-XXXX-XX,"Gender:XXXXX,Category:XXXXX", Soil Sample Details,Soil Sample Number,TN629646/2015-16/33562275(1),Date of Sample Collection,20-06-2015,Survey No.,182,Khasra No./ Dag No.,-,Farm Size,0.34  Hectares,Irrigated,Irrigated(Canal),Geo Position (GPS):Latitude 13.239167°N Longitude 80.398334°E,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Name of Laboratory,Soil testing Laboratory,SOIL TEST RESULTS,#,Parameter,Test Value,Unit,Rating,1,pH,7.40,,Moderately alkaline
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Name of Laboratory,Soil testing Laboratory,SOIL TEST RESULTS,#,Parameter,Test Value,Unit,Rating,2,EC,0.13,dS/m,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Name of Laboratory,Soil testing Laboratory,SOIL TEST RESULTS,#,Parameter,Test Value,Unit,Rating,3,Organic Carbon (OC),0.24,%,Very Low
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Name of Laboratory,Soil testing Laboratory,SOIL TEST RESULTS,#,Parameter,Test Value,Unit,Rating,4,Available Nitrogen (N),182.00,kg/ha,Low
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Name of Laboratory,Soil testing Laboratory,SOIL TEST RESULTS,#,Parameter,Test Value,Unit,Rating,5,Available Phosphorus (P),299.00,kg/ha,Very High
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Name of Laboratory,Soil testing Laboratory,SOIL TEST RESULTS,#,Parameter,Test Value,Unit,Rating,6,Available Potassium (K),169.00,kg/ha,Medium
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Name of Laboratory,Soil testing Laboratory,SOIL TEST RESULTS,#,Parameter,Test Value,Unit,Rating,7,Available Sulphur (S),83.00,ppm,Sufficient
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Name of Laboratory,Soil testing Laboratory,SOIL TEST RESULTS,#,Parameter,Test Value,Unit,Rating,8,Available Zinc (Zn),0.70,ppm,Sufficient
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Name of Laboratory,Soil testing Laboratory,SOIL TEST RESULTS,#,Parameter,Test Value,Unit,Rating,9,Available Boron (B),0.18,ppm,Deficient
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Name of Laboratory,Soil testing Laboratory,SOIL TEST RESULTS,#,Parameter,Test Value,Unit,Rating,10,Available Iron (Fe),5.70,ppm,Sufficient
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Name of Laboratory,Soil testing Laboratory,SOIL TEST RESULTS,#,Parameter,Test Value,Unit,Rating,11,Available Manganese (Mn),2.56,ppm,Sufficient
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Name of Laboratory,Soil testing Laboratory,SOIL TEST RESULTS,#,Parameter,Test Value,Unit,Rating,12,Available Copper (Cu),0.68,ppm,Sufficient
+
+Textbox1,Textbox9,Textbox1,Textbox3,Textbox5,Textbox6,Textbox15,Textbox2,TestName,Textbox12,Textbox13,Textbox5,Textbox56,Suggestion,Textbox4,Textbox20,Textbox27,Textbox26,Textbox3,Textbox5,Textbox29,Textbox34,Comb1_Fert1_name,Comb1_Fert1_Mod_dose,Comb2_Fert1_name,Comb2_Fert1_Mod_dose,Textbox1,Crop_Name1,Reference_Yield,Organic_Fertilizer_Name,Bio_Fertilizer_Name,Comb1_Fert2_name,Comb1_Fert2_Mod_dose,Comb2_Fert2_name,Comb2_Fert2_Mod_dose,Variety_Name,Textbox6,Textbox9,Comb1_Fert3_name,Comb1_Fert3_Mod_dose,Comb2_Fert3_name,Comb2_Fert3_Mod_dose
+Fertilizer Recommendations for Reference Yield (with Organic Manure),Secondary & Micro Nutrients Recommendations,#,Parameter,Fertilizer Recommendations for Reference Yield (with Organic Manure),Through Soil,Through Spray,1,Boron (B),Borax (5-10 kg/ha) , 0.25 % borax,General Recommendations,Lime / Gypsum,,Directorate of Agriculture,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fertilizer Recommendations for Reference Yield (with Organic Manure),,,,,,,,,,,,,,,S.No,Crop Variety,Reference Yield,Organic Fertilizer & Quantity,Bio Fertilizer & Quantity,"Fertilizer Combination-1  (kg/ha)
+","Fertilizer Combination-2 (kg/ha)
+",Neem Coated Urea  ,283,Diammonium Phosphate (16:44:0),39,1,Paddy(Dhaan),,FYM,Azospirillum,Single Superphosphate (16% P2O5 Granulated,106,Urea (46% N) (While free flowing),269,CO-51,21 t/ha,5.000 kg/h,Potassium Chloride (Muriate of Potash),83,Potassium Chloride (Muriate of Potash),83
+
+Textbox1,Textbox26,Textbox3,Textbox5,Textbox29,Textbox34,Textbox15,Crop_Name2,Time_of_Application,Reference_Yield,Organic_Fertilizer_Name,Textbox7,Comb1_Fert1_name,Comb1_Fert1_Mod_dose,Comb2_Fert1_name,Comb2_Fert1_Mod_dose,Comb1_Fert2_name,Textbox96,Comb2_Fert2_name,Textbox98,Comb1_Fert3_name,Textbox87,Comb2_Fert3_name,Textbox89
+Crop Variety,Reference Yield,Organic Fertilizer & Quantity,Bio Fertilizer & Quantity,Fertilizer Combination-1 ,Fertilizer Combination-2,,,,,,,,,,,,,,,,,,
+
