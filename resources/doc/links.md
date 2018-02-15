@@ -39,3 +39,7 @@ How Weather Conditions Affect Spray Applications
 
 current weather information and forecasts, JSON data to exchange data.
 
+11) http://www.pastatebeekeepers.org/other/pesticides.htm
+
+Pesticide Descriptions
+
