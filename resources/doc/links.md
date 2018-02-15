@@ -4,7 +4,7 @@ Links
 
 Various data related with agriculture available at data.gov.in
 
-2) https://data.gov.in/search/site?query=soil+health
+2) http://soilhealth.dac.gov.in, https://data.gov.in/search/site?query=soil+health
 
 Soil health information
 
